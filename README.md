@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/femboyx">
-  <img src="https://i.giphy.com/media/3og0IRxSBIhu5aknpS/giphy.webp">
+  <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp">
   </a>
 </p>
 
