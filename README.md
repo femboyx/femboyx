@@ -1,4 +1,4 @@
-![Cat GIF]([https://c.tenor.com/wmdZRrMdcVMAAAAd/cat-wisky-chill.gif](https://tenor.com/view/anime-robot-aesthetic-gif-14885031))
+![Cat GIF](https://tenor.com/view/anime-robot-aesthetic-gif-14885031)
 
 ---
 
