@@ -1,15 +1,14 @@
 https://tenor.com/view/anime-robot-aesthetic-gif-14885031
 
 ---
-
 ### About Me
 
-👋 Hi there! I'm a minor student studying cybersec and a programmer with experience in PHP, Kotlin, Python, C, and a little bit of JS and TypeScript. 
+cool person studying cybersec, with a focus on pentesting and threat intel. On the programming side of things, I have experience with PHP, Kotlin, Python, C, and a little bit of JS and TypeScript
 
 ---
 
-### Contact Me
+### Contact INFO
 
-📫 You can reach me at [c@kertal.club](mailto:c@kertal.club).
+ [c@kertal.club](mailto:c@kertal.club).
  
 ---
