@@ -1,5 +1,4 @@
-
-https://tenor.com/view/cat-wisky-chill-gif-24457090
+![Cat GIF]([https://c.tenor.com/wmdZRrMdcVMAAAAd/cat-wisky-chill.gif](https://tenor.com/view/anime-robot-aesthetic-gif-14885031))
 
 ---
 
@@ -9,7 +8,8 @@ https://tenor.com/view/cat-wisky-chill-gif-24457090
 
 ---
 
+### Contact Me
 
-contact me [c@kertal.club](mailto:c@kertal.club).
+📫 You can reach me at [c@kertal.club](mailto:c@kertal.club).
  
 ---
