@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1A1A&lines=Penetration+Tester;Threat+Intelligence+Analyst;PHP%2C+Python%2C+Kotlin%2C+TypeScript+Enthusiast&width=435&height=50">
+  <!-- Typing SVG by Readme Typing SVG -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Penetration+Tester;Threat+Intelligence+Analyst;PHP%2C+Python%2C+Kotlin%2C+TypeScript%2C+and+a+little+bit+of+JavaScript.">
   </a>
 </p>
 
