@@ -1,4 +1,4 @@
-![Cat GIF](https://tenor.com/view/anime-robot-aesthetic-gif-14885031)
+https://tenor.com/view/anime-robot-aesthetic-gif-14885031
 
 ---
 
