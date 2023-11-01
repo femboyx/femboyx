@@ -10,6 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1A1A&lines=Full-Stack+Website+Developer;Cyber-Security+Specialist;10%2B+Years+Industry+Experience&width=435&height=50">
   </a>
 </p>
+
 ### Contact INFO
 
  [c@kertal.club](mailto:c@kertal.club)
